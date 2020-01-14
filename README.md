@@ -23,6 +23,9 @@ result
 
 
 
+### Note
+Sometimes the results are inaccurate
+
 ### Thank
 
  https://github.com/shafferjohn/bilibili-search 
